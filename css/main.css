@@ -4,7 +4,7 @@ page/site content leaving the HTML pages to include just the
 content itself.*/
 
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   margin: 0;
   padding: 0 10px 10px 10px;
   /* max-width here is based on the advertise image which is 1280px wide */
@@ -20,9 +20,9 @@ img, embed, object, video, header {
 }
 
 .header {
-  box-shadow: 0 4px 0px #7d97ad;
+  box-shadow: 0 4px 0 #7d97ad;
   margin-top: 20px;
-  padding: 10px 0px 10px 0px;
+  padding: 10px 0 10px 0;
   text-align: right;
   color: #2d3c49;
 }
